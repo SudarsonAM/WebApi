@@ -1,0 +1,12 @@
+C:\Users\Vakilsearch\source\repos\WebApiDemo\StudentDataAcess\bin\Debug\StudentDataAcess.dll.config
+C:\Users\Vakilsearch\source\repos\WebApiDemo\StudentDataAcess\bin\Debug\StudentDataAcess.dll
+C:\Users\Vakilsearch\source\repos\WebApiDemo\StudentDataAcess\bin\Debug\StudentDataAcess.pdb
+C:\Users\Vakilsearch\source\repos\WebApiDemo\StudentDataAcess\bin\Debug\EntityFramework.dll
+C:\Users\Vakilsearch\source\repos\WebApiDemo\StudentDataAcess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vakilsearch\source\repos\WebApiDemo\StudentDataAcess\bin\Debug\EntityFramework.xml
+C:\Users\Vakilsearch\source\repos\WebApiDemo\StudentDataAcess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vakilsearch\source\repos\WebApiDemo\StudentDataAcess\obj\Debug\StudentDataAcess.csproj.AssemblyReference.cache
+C:\Users\Vakilsearch\source\repos\WebApiDemo\StudentDataAcess\obj\Debug\StudentDataAcess.csproj.CoreCompileInputs.cache
+C:\Users\Vakilsearch\source\repos\WebApiDemo\StudentDataAcess\obj\Debug\StudentDataAcess.csproj.CopyComplete
+C:\Users\Vakilsearch\source\repos\WebApiDemo\StudentDataAcess\obj\Debug\StudentDataAcess.dll
+C:\Users\Vakilsearch\source\repos\WebApiDemo\StudentDataAcess\obj\Debug\StudentDataAcess.pdb
